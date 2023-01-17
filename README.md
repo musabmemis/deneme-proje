@@ -31,3 +31,7 @@ git pull
 [github a ekleme](https://app.patika.dev/courses/git/githuba-projemizin-eklenmesi-ve-diger-repo-hosting-web-platformlari)
 
 [markdown bilgi](https://app.patika.dev/courses/git/markdown-nedir-nasil-kullaniriz-)
+
+| Başlangıç | Orta | İleri|
+| :--- | :---| :--- |
+| iyi | çok iyi | çok iyi |
