@@ -24,7 +24,7 @@ git pull
 ```sh
 <h1>başlık 1</h1>
 ```
-[link](htttps://google.com)
+[arama motoru](https://google.com)
 
 [git ignore](https://app.patika.dev/courses/git/gitignore-dosyasi-ne-i%CC%87se-yarar-nasil-kullaniriz)
 
