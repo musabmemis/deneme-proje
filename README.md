@@ -24,6 +24,16 @@ git pull
 ```sh
 <h1>başlık 1</h1>
 ```
+### Html Kodu 
+```sh
+<h1>Başlık1</h1>
+
+<h2>Başlık2</h2>
+
+<h3>Başlık3</h3>
+```
+## Linkler
+
 [arama motoru](https://google.com)
 
 [git ignore](https://app.patika.dev/courses/git/gitignore-dosyasi-ne-i%CC%87se-yarar-nasil-kullaniriz)
@@ -32,6 +42,9 @@ git pull
 
 [markdown bilgi](https://app.patika.dev/courses/git/markdown-nedir-nasil-kullaniriz-)
 
+## Tablolar
+
 | Başlangıç | Orta | İleri|
 | :--- | :---| :--- |
 | iyi | çok iyi | çok iyi |
+
