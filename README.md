@@ -2,10 +2,10 @@
 
 ## Ilk Deneme
 
-    - git kodları öğrendik
-    - git kodlarını github'a yüklemeyi öğrendik 
-    - branchler 
-    - commitler
+- git kodları öğrendik
+- git kodlarını github'a yüklemeyi öğrendik 
+- branchler 
+- commitler
 
 ## Git Kodları
 
